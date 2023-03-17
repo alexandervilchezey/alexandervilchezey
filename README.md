@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervilchezey&" alt="alexandervilchezey" /></p>
 
 <!-- Github Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexadnervilchezey&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandervilchezey&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
